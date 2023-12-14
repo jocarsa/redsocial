@@ -1,0 +1,1 @@
+CREATE TABLE `redsocial`.`usuarios` (`Identificador` INT(10) NOT NULL AUTO_INCREMENT , `nombreusuario` VARCHAR(100) NOT NULL , `contraseña` VARCHAR(100) NOT NULL , `nombrepropio` VARCHAR(100) NOT NULL , `apellidos` VARCHAR(100) NOT NULL , `email` VARCHAR(100) NOT NULL , `foto` VARCHAR(100) NOT NULL , PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;

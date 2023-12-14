@@ -1,0 +1,18 @@
+[
+    {
+        "imagen":"img/escritorio/persona1.jfif",
+        "nombre":"persona 1"
+    },
+    {
+        "imagen":"img/escritorio/persona2.jfif",
+        "nombre":"persona 2"
+    },
+    {
+        "imagen":"img/escritorio/persona3.jfif",
+        "nombre":"persona 3"
+    },
+    {
+        "imagen":"img/escritorio/persona4.jfif",
+        "nombre":"persona 4"
+    }
+]

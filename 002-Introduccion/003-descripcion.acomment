@@ -1,0 +1,29 @@
+usuarios:
+Identificador PK
+nombreusuario
+contraseña
+nombrepropio
+apellidos
+email
+foto
+
+publicaciones:
+Identificador PK
+fecha
+usuario FK
+imagen
+texto
+
+comentarios:
+Identificador PK
+fecha
+usuario FK
+publicacion FK
+texto
+
+enlaces:
+Identificador PK
+fecha
+usuario1 FK
+usuario2 FK
+
