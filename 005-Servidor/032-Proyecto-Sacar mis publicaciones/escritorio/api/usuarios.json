@@ -1,0 +1,18 @@
+[
+    {
+        "imagen":"img/persona1.jfif",
+        "nombre":"persona 1"
+    },
+    {
+        "imagen":"img/persona2.jfif",
+        "nombre":"persona 2"
+    },
+    {
+        "imagen":"img/persona3.jfif",
+        "nombre":"persona 3"
+    },
+    {
+        "imagen":"img/persona4.jfif",
+        "nombre":"persona 4"
+    }
+]

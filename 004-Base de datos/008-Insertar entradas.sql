@@ -1,0 +1,3 @@
+INSERT INTO `publicaciones` (`Identificador`, `fecha`, `usuarios_usuario`, `imagen`, `texto`) VALUES (NULL, '2023-12-15', '1', 'img/entrada1.jpg', 'Este es el texto de la entrada 1 desde la base de datos');
+INSERT INTO `publicaciones` (`Identificador`, `fecha`, `usuarios_usuario`, `imagen`, `texto`) VALUES (NULL, '2023-12-16', '1', 'img/entrada2.jpg', 'Este es el texto de la entrada 2 desde la base de datos');
+INSERT INTO `publicaciones` (`Identificador`, `fecha`, `usuarios_usuario`, `imagen`, `texto`) VALUES (NULL, '2023-12-17', '1', 'img/entrada3.jpg', 'Este es el texto de la entrada 3 desde la base de datos');
